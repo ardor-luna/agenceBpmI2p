@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 22:38:57
+/* Smarty version 3.1.43, created on 2022-10-28 00:21:37
   from 'C:\laragon\agence-bpm-i2p\themes\amazonas\templates\catalog\_partials\product-activation.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635aec6113fb37_13321507',
+  'unifunc' => 'content_635b047155fd12_08057826',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635aec6113fb37_13321507 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635b047155fd12_08057826 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['page']->value['admin_notifications']) {?>
   <div class="alert alert-warning row" role="alert">
     <div class="container">

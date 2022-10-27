@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 22:46:37
+/* Smarty version 3.1.43, created on 2022-10-28 00:23:03
   from 'C:\laragon\agence-bpm-i2p\admin8632ufbmn\themes\new-theme\template\components\layout\non-responsive.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635aee2d8ef702_25776903',
+  'unifunc' => 'content_635b04c7db6e31_64492849',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635aee2d8ef702_25776903 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635b04c7db6e31_64492849 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="non-responsive" class="js-non-responsive">
   <h1><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Oh no!'),$_smarty_tpl ) );?>
 </h1>

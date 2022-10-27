@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 23:38:43
+/* Smarty version 3.1.43, created on 2022-10-28 00:21:32
   from 'C:\laragon\agence-bpm-i2p\themes\amazonas\modules\ets_multilayerslider\views\templates\hook\multilayerslider.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635afa63a412a4_39269417',
+  'unifunc' => 'content_635b046cb82ef8_07205739',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635afa63a412a4_39269417 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635b046cb82ef8_07205739 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">
     var width_slider = <?php echo htmlspecialchars(intval($_smarty_tpl->tpl_vars['mls_width']->value), ENT_QUOTES, 'UTF-8');?>

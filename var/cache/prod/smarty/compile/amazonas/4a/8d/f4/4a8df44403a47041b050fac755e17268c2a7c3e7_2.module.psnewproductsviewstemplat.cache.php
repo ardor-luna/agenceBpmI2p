@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 23:38:45
+/* Smarty version 3.1.43, created on 2022-10-28 00:21:35
   from 'module:psnewproductsviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635afa65874581_71936271',
+  'unifunc' => 'content_635b046f824e26_41834573',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,8 +21,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product.tpl' => 1,
   ),
 ),false)) {
-function content_635afa65874581_71936271 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '1332895253635afa65870984_49889465';
+function content_635b046f824e26_41834573 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '749783478635b046f8189d7_79118571';
 ?>
 
 <section class="featured-products clearfix home-block-section col-xs-12 col-sm-12">

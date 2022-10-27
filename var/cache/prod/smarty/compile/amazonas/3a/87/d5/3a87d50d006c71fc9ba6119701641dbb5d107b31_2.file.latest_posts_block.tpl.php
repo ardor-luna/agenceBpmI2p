@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 23:38:45
+/* Smarty version 3.1.43, created on 2022-10-28 00:21:35
   from 'C:\laragon\agence-bpm-i2p\themes\amazonas\modules\ybc_blog_free\views\templates\hook\latest_posts_block.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635afa65d3ebe3_12827755',
+  'unifunc' => 'content_635b046fc2b6f1_82182849',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635afa65d3ebe3_12827755 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635b046fc2b6f1_82182849 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['posts']->value) {?>
     <?php if ($_smarty_tpl->tpl_vars['page']->value == 'home') {?>
         <div class="bg-home">

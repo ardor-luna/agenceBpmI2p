@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 23:38:46
+/* Smarty version 3.1.43, created on 2022-10-28 00:21:36
   from 'C:\laragon\agence-bpm-i2p\modules\ybc_specificprices\views\templates\hook\display_product.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635afa666fd182_82469689',
+  'unifunc' => 'content_635b047055b587_77415120',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:modules/ybc_specificprices/views/templates/hook/_product.tpl' => 1,
   ),
 ),false)) {
-function content_635afa666fd182_82469689 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635b047055b587_77415120 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
@@ -39,7 +39,7 @@ if ($_from !== null) foreach ($_from as $_smarty_tpl->tpl_vars['product']->value
 $_smarty_tpl->tpl_vars['product']->do_else = false;
 ?>
                 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1048833275635afa666fb961_15970740', 'product_miniature');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1088797424635b04705591b1_24056568', 'product_miniature');
 ?>
 
             <?php
@@ -49,12 +49,12 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
     </div>
 </div><?php }
 /* {block 'product_miniature'} */
-class Block_1048833275635afa666fb961_15970740 extends Smarty_Internal_Block
+class Block_1088797424635b04705591b1_24056568 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'product_miniature' => 
   array (
-    0 => 'Block_1048833275635afa666fb961_15970740',
+    0 => 'Block_1088797424635b04705591b1_24056568',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

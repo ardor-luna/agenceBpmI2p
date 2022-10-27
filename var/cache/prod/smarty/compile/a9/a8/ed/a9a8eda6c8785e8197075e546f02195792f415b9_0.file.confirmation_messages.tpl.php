@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 22:46:37
+/* Smarty version 3.1.43, created on 2022-10-28 00:23:03
   from 'C:\laragon\agence-bpm-i2p\admin8632ufbmn\themes\new-theme\template\components\layout\confirmation_messages.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635aee2d796078_87875329',
+  'unifunc' => 'content_635b04c7caa7c1_30222813',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635aee2d796078_87875329 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635b04c7caa7c1_30222813 (Smarty_Internal_Template $_smarty_tpl) {
 if ((isset($_smarty_tpl->tpl_vars['confirmations']->value)) && count($_smarty_tpl->tpl_vars['confirmations']->value) && $_smarty_tpl->tpl_vars['confirmations']->value) {?>
   <div class="bootstrap">
     <div class="alert alert-success" style="display:block;">

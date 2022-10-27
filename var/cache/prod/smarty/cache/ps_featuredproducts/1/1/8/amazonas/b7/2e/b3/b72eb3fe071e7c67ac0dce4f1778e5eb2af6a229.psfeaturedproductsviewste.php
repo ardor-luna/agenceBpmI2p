@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 23:38:45
+/* Smarty version 3.1.43, created on 2022-10-28 00:21:35
   from 'module:psfeaturedproductsviewste' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635afa6530c4c1_68058061',
+  'unifunc' => 'content_635b046f225304_82592475',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -24,7 +24,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_635afa6530c4c1_68058061 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635b046f225304_82592475 (Smarty_Internal_Template $_smarty_tpl) {
 ?><section class="featured-products clearfix home-block-section col-xs-12 col-sm-12">
   <h3 class="h1 products-section-title text-uppercase title-home">
         <span>Popular products</span>
@@ -51,12 +51,6 @@ function content_635afa6530c4c1_68058061 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="22" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -110,12 +104,6 @@ function content_635afa6530c4c1_68058061 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="23" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -170,12 +158,6 @@ function content_635afa6530c4c1_68058061 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="25" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -229,12 +211,6 @@ function content_635afa6530c4c1_68058061 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="26" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -288,12 +264,6 @@ function content_635afa6530c4c1_68058061 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="27" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -347,12 +317,6 @@ function content_635afa6530c4c1_68058061 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="28" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -406,12 +370,6 @@ function content_635afa6530c4c1_68058061 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="29" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -465,12 +423,6 @@ function content_635afa6530c4c1_68058061 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="30" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 23:38:45
+/* Smarty version 3.1.43, created on 2022-10-28 00:21:35
   from 'module:psnewproductsviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635afa659d2d16_09633273',
+  'unifunc' => 'content_635b046f93dad4_47606032',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -24,7 +24,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_635afa659d2d16_09633273 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635b046f93dad4_47606032 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section class="featured-products clearfix home-block-section col-xs-12 col-sm-12">
   <h3 class="h1 products-section-title text-uppercase title-home">
@@ -51,12 +51,6 @@ function content_635afa659d2d16_09633273 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="47" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -110,12 +104,6 @@ function content_635afa659d2d16_09633273 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="46" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -169,12 +157,6 @@ function content_635afa659d2d16_09633273 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="45" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -228,12 +210,6 @@ function content_635afa659d2d16_09633273 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="44" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -287,12 +263,6 @@ function content_635afa659d2d16_09633273 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="43" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -346,12 +316,6 @@ function content_635afa659d2d16_09633273 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="42" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -405,12 +369,6 @@ function content_635afa659d2d16_09633273 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="41" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
@@ -464,12 +422,6 @@ function content_635afa659d2d16_09633273 (Smarty_Internal_Template $_smarty_tpl)
             
       <div class="hook-reviews">
 	      
-<div class="product-list-reviews" data-id="40" data-url="http://localhost:82/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
 	  </div>
       
       
