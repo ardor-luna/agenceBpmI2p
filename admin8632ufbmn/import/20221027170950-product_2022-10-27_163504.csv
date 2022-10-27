@@ -1,0 +1,29 @@
+"Product ID";Image;Nom;Référence;Catégorie;"Montant HT";"Montant TTC";Quantité;État;Position
+49;http://localhost:88/62/hot-deal3.jpg;"hot deal3";;Accueil;0.000000;0;222;0
+48;http://localhost:88/61/hot-deal2.jpg;"hot deal2";;Accueil;0.000000;0;1300;0
+47;http://localhost:88/60/hot-deal1.jpg;"hot deal1";;Accueil;0.000000;0;1200;0
+46;http://localhost:88/57/stylo-metal.jpg;"Stylo metal";440099;Accueil;0.000000;0;2000;0
+45;http://localhost:88/56/serviette.jpg;Serviette;665544;Accueil;0.000000;0;1200;0
+44;http://localhost:88/55/sachet-expidition.jpg;"Sachet expidition";997733;Accueil;0.000000;0;13000;0
+43;http://localhost:88/54/papier-ingressable.jpg;"Papier ingressable";667788;Accueil;0.000000;0;0;1
+42;http://localhost:88/49/oriflame.jpg;Oriflame;334455;Accueil;0.000000;0;1200;0
+41;http://localhost:88/48/flyer.jpg;Flyer;232323;Accueil;0.000000;0;1200;0
+40;http://localhost:88/47/etiquette-papier.jpg;"Etiquette papier";08531;Accueil;0.000000;0;400;0
+39;http://localhost:88/46/etiquette.jpg;Etiquette;13680;Accueil;0.000000;0;400;0
+38;http://localhost:88/45/envelope-expidition.jpg;"Envelope Expidition";09234;Accueil;0.000000;0;500;0
+37;http://localhost:88/44/doypack.jpg;Doypack;175334;Accueil;0.000000;0;1200;0
+36;http://localhost:88/42/coffret.jpg;coffret;102543;Accueil;0.000000;0;1200;0
+35;http://localhost:88/41/chemise-a-rabat.jpg;"chemise a rabat";0192658;Accueil;0.000000;0;700;0
+34;http://localhost:88/40/carte-de-visite.jpg;"Carte de visite";435367;Accueil;0.000000;0;1000;0
+33;http://localhost:88/39/calendrier-mural.jpg;"Calendrier mural";109246;Accueil;12.000000;12;200;0
+32;http://localhost:88/38/calendrier.jpg;Calendrier;6473829;Accueil;0.000000;0;500;0
+31;http://localhost:88/37/boite-cloche.jpg;"Boite cloche";654399;Accueil;58.000000;58;400;0
+30;http://localhost:88/36/boite-a-tiroir.jpg;"Boite a tiroir";21456;Accueil;13.000000;13;500;0
+29;http://localhost:88/34/boite-a-livre.jpg;"Boite a livre";65478;Accueil;12.000000;12;400;0
+26;http://localhost:88/32/bloc-note-avec-couverture.jpg;"Bloc note avec couverture";094567;Accueil;30.000000;30;3000;0
+25;http://localhost:88/30/bloc-note.jpg;"Bloc note";045673;Accueil;10.000000;10;1200;0
+24;http://localhost:88/29/autocopiant.jpg;Autocopiant;023453;Accueil;13.000000;13;1200;0
+23;http://localhost:88/28/carton.jpg;Carton;0567845;Accueil;16.000000;16;400;0
+22;http://localhost:88/27/liasse-autocopiante.jpg;Liasse-autocopiante;347684;Accueil;39.000000;39;300;0
+21;http://localhost:88/26/agenda-.jpg;Agenda;567890;Accueil;34.000000;34;12000;0
+20;http://localhost:88/25/sac.jpg;Sac;123456;Accueil;0.000000;0;1200;0

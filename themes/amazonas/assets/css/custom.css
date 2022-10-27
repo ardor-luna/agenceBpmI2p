@@ -1,0 +1,98 @@
+:root{
+
+    /* main color template */
+    --main-color-pink: #fd0097;
+    --main-color-yellow: #fdeb00;
+    --main-color-blue: #45f7ff;
+
+    /* background color */
+   --bg-color: #fffffe;
+
+  /* paragraph color subheadings */
+  --text-color: #2d334a;
+  /*  headline and buttons text color */
+ --headline-color : #272343;
+ /* forum, input,card background colors */
+ --wrapper-color: #fffffe;
+  }
+
+   /* .fa {
+      color: var(--main-color-pink);
+  } */
+
+
+
+  /*  top header to change the header code */
+  
+  .header-top{
+    height: 100px;
+  }
+
+  .logo{
+    height: 10rem;
+    width: 10rem;
+    position: absolute;
+    top: -57px;
+    /* left: -30px; */
+  }
+  #_desktop_logo{
+    width: 25%;
+    background-color: var(--bg-color);
+    position: relative;
+  }
+
+  /* change the search bar */
+  .search-widget{
+    width: 60%;
+    height: 70px;
+  }
+
+  /*   change the style and the colors of the main menu */
+
+  /* .thumbnail-container{
+    background-color: var(--wrapper-color);
+  } */
+  .menu_and_cattree {
+background-color: var(--main-color-yellow);
+  }
+
+
+
+
+  /* cart styling */
+  
+ .cart-products-count{
+  background-color: var(--main-color-pink);
+  color: var(--headline-color);
+ } 
+ 
+.title_category{
+  font-size: medium;
+  position: absolute;
+  top: 20px;
+
+}
+
+.product-flags .new{
+  background-color:#45f7ff;
+  color: #272343;
+}
+.out_of_stock{
+  background-color: #fd0097;
+ 
+}
+#footer{
+  background-color: #45f7ff;
+}
+
+.ybc-widget-item-content{
+  border-radius: 20px;
+}
+
+.contact_link_item{
+  display: none;
+}
+
+.footer_after{
+  display: none;
+}

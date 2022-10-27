@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'agence bpm pro i2p',
+    'database_user' => 'root',
+    'database_password' => 'root',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'odgBRGpAO4PMUCFfVhGMe6e8s47o3Kbd8YNSOua854fcRJX9ZNsVf9hjqy7Ai2M4',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-10-27',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'eff9VBan21yf0AACLdiJKVDwIXXP7rg0v7nGUXgxtHNEt4JDMioAxp8w18PyV7L8',
+    'cookie_iv' => 'jDpi1WJUCA0TY15fFqpKzQuukPRdKteC',
+    'new_cookie_key' => 'def00000921ad8d1b5258ba1adbb22e91cf66b4bf4cebd363f4859db75bf7c33671026f382f376f26affec79b8775cc54739836e4c9d898c542866f9f7f018ec6003a91b',
+  ),
+);
