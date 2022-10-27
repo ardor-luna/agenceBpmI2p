@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 17:03:08
+/* Smarty version 3.1.43, created on 2022-10-27 22:38:53
   from 'module:pscustomeraccountlinkspsc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635a9dac3eb5f5_10215384',
+  'unifunc' => 'content_635aec5d158b01_34737539',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635a9dac3eb5f5_10215384 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '61591815635a9dac3e16b6_49310578';
+function content_635aec5d158b01_34737539 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '862059623635aec5d14ae76_11693797';
 ?>
 
 <div id="block_myaccount_infos" class="links wrapper">

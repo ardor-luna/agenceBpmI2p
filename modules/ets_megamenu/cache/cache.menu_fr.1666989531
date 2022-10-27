@@ -1,0 +1,229 @@
+    <ul class="mm_menus_ul">
+        <li class="close_menu">
+            <div class="pull-left">
+                <span class="mm_menus_back">
+                    <i class="icon-bar"></i>
+                    <i class="icon-bar"></i>
+                    <i class="icon-bar"></i>
+                </span>
+                Menu
+                
+            </div>
+            <div class="pull-right">
+                <span class="mm_menus_back_icon"></span>
+                Précédent
+            </div>
+        </li>
+                    <li  class="mm_menus_li home_layout_menu mm_sub_align_left ">
+                <a href="http://localhost:82/2-accueil">
+                    Accueil
+                                    </a>
+                                     
+            </li>
+                    <li  class="mm_menus_li  mm_sub_align_full mm_has_sub">
+                <a href="http://localhost:82/2-accueil">
+                    Catalogue
+                                    </a>
+                <span class="arrow closed"></span>                                    <ul class="mm_columns_ul" style="width:100%;">
+                                                    <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                    <ul class="mm_blocks_ul">
+                                                                                    <li data-id-block="4" class="mm_blocks_li">
+                                                    <div class="ets_mm_block mm_block_type_category ">
+        <h4>Packaging</h4>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li >
+                <a href="http://localhost:82/41-boite-d-expedition">Boite d&#039;expédition</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/40-etiquette-planches-rouleaux">Etiquette Planches &amp; Rouleaux</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/45-papier-cadeau-">Papier cadeau</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/44-ruban-adhesif-kraft-perso">Ruban adhésif kraft perso</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/43-sac-cadeau-">Sac cadeau</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/42-sacs-kraft-standards-">Sacs kraft standards</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+
+                                            </li>
+                                                                                    <li data-id-block="1" class="mm_blocks_li">
+                                                    <div class="ets_mm_block mm_block_type_category ">
+        <h4>Pub</h4>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li >
+                <a href="http://localhost:82/16-affiches">Affiches</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/17-autocollant-stickers">Autocollant - stickers</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/15-brochure">Brochure</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/14-depliant">Dépliant</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/13-flyers">Flyers</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/18-plaquette-commerciale">Plaquette commerciale</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+
+                                            </li>
+                                                                            </ul>
+                                                            </li>
+                                                    <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                    <ul class="mm_blocks_ul">
+                                                                                    <li data-id-block="2" class="mm_blocks_li">
+                                                    <div class="ets_mm_block mm_block_type_category ">
+        <h4>Papeterie</h4>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li >
+                <a href="http://localhost:82/30-agenda-publicitaire">Agenda Publicitaire</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/35-blocs-notes">Blocs-notes</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/36-blocs-notes">Blocs-notes</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/29-calendrier-publicitaire">Calendrier publicitaire</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/38-carnets-autocopiants">Carnets autocopiants</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/31-chemises-a-rabats">Chemises à rabats</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/32-enveloppes">Enveloppes</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/37-sous-main">Sous-main</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/34-tampons">Tampons</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/33-tetes-de-lettre">Têtes de lettre</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+
+                                            </li>
+                                                                            </ul>
+                                                            </li>
+                                                    <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                    <ul class="mm_blocks_ul">
+                                                                                    <li data-id-block="8" class="mm_blocks_li">
+                                                    <div class="ets_mm_block mm_block_type_category ">
+        <h4>Hotel/Resto</h4>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li >
+                <a href="http://localhost:82/50-accroche-portes">Accroche-portes</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/51-chevalets-de-table">Chevalets de table</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/47-menus-de-restaurant">Menus de restaurant</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/48-sets-de-table">Sets de table</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/52-sous-bocks">Sous-bocks</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/49-tickets-bar">Tickets bar</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+
+                                            </li>
+                                                                            </ul>
+                                                            </li>
+                                                    <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                    <ul class="mm_blocks_ul">
+                                                                                    <li data-id-block="3" class="mm_blocks_li">
+                                                    <div class="ets_mm_block mm_block_type_category ">
+        <h4>Carterie</h4>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li >
+                <a href="http://localhost:82/24-carte-d-invitation">Carte d&#039;invitation</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/27-carte-de-fidelite">Carte de Fidélité</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/20-carte-de-visite">Carte de visite</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/26-carte-de-voeux">Carte de voeux</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/23-cartes-de-correspondance">Cartes de correspondance</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/21-cartes-postales">Cartes postales</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/25-faire-part-de-naissance">Faire-part de naissance</a>
+                            </li>
+                    <li >
+                <a href="http://localhost:82/22-marque-pages">Marque-pages</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+
+                                            </li>
+                                                                            </ul>
+                                                            </li>
+                                            </ul>
+                     
+            </li>
+                    <li  class="mm_menus_li  mm_sub_align_full ">
+                <a href="http://localhost:82/54-signaletique">
+                    Signaletique
+                                    </a>
+                                     
+            </li>
+                    <li  class="mm_menus_li  mm_sub_align_full ">
+                <a href="http://localhost:82/53-textile">
+                    Textile
+                                    </a>
+                                     
+            </li>
+                    <li  class="mm_menus_li  mm_sub_align_full ">
+                <a href="http://localhost:82/55-bureautique">
+                    Bureautique
+                                    </a>
+                                     
+            </li>
+                    <li  class="mm_menus_li contact_menu mm_sub_align_left ">
+                <a href="http://localhost:82/nous-contacter">
+                    Contactez-Nous
+                                    </a>
+                                     
+            </li>
+            </ul>

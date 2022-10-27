@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 17:03:04
+/* Smarty version 3.1.43, created on 2022-10-27 22:38:51
   from 'C:\laragon\agence-bpm-i2p\modules\ets_megamenu\views\templates\hook\categories-tree.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635a9da8e2ac74_02282158',
+  'unifunc' => 'content_635aec5b499c96_64208542',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635a9da8e2ac74_02282158 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635aec5b499c96_64208542 (Smarty_Internal_Template $_smarty_tpl) {
 if ((isset($_smarty_tpl->tpl_vars['categories']->value)) && $_smarty_tpl->tpl_vars['categories']->value) {?>
     <ul class="ets_mm_categories">
         <?php

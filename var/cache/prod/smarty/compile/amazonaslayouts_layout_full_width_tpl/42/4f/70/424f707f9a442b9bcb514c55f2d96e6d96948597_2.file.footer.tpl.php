@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 17:03:08
+/* Smarty version 3.1.43, created on 2022-10-27 22:38:57
   from 'C:\laragon\agence-bpm-i2p\themes\amazonas\templates\_partials\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635a9dac099a86_49609995',
+  'unifunc' => 'content_635aec619cede1_62995752',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635a9dac099a86_49609995 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635aec619cede1_62995752 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="footer-container">
   <div class="container">
         <div class="footer_top">

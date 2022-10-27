@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-27 17:03:01
+/* Smarty version 3.1.43, created on 2022-10-27 22:38:47
   from 'C:\laragon\agence-bpm-i2p\modules\ybc_productimagehover\views\templates\hook\renderJs.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635a9da5e06ee9_43312354',
+  'unifunc' => 'content_635aec578bd646_39239651',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635a9da5e06ee9_43312354 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635aec578bd646_39239651 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">
  var baseAjax ='<?php if ((isset($_smarty_tpl->tpl_vars['_PI_VER_17_']->value)) && $_smarty_tpl->tpl_vars['_PI_VER_17_']->value) {
