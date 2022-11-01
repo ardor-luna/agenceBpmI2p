@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-28 00:21:37
+/* Smarty version 3.1.43, created on 2022-10-31 13:08:49
   from 'module:pscontactinfonav.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635b047187e585_84442491',
+  'unifunc' => 'content_635fbad16960d9_59809911',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635b047187e585_84442491 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635fbad16960d9_59809911 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="_desktop_contact_link">
   <div id="contact-link">
     <?php if ((isset($_smarty_tpl->tpl_vars['tc_config']->value['BLOCKCONTACTINFOS_PHONE_CALL'])) && $_smarty_tpl->tpl_vars['tc_config']->value['BLOCKCONTACTINFOS_PHONE_CALL']) {?>

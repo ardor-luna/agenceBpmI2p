@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-28 00:21:41
+/* Smarty version 3.1.43, created on 2022-10-31 13:09:43
   from 'C:\laragon\agence-bpm-i2p\themes\amazonas\templates\errors\not-found.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635b0475cb7261_09303061',
+  'unifunc' => 'content_635fbb07ca6415_54882384',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635b0475cb7261_09303061 (Smarty_Internal_Template $_smarty_tpl) {
+function content_635fbb07ca6415_54882384 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
@@ -31,7 +31,7 @@ $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 </p>
 
   <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1698688081635b0475cb4902_85570088', 'search');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_753482098635fbb07ca31f4_05805730', 'search');
 ?>
 
 
@@ -40,12 +40,12 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1698688081635b0475
 </section>
 <?php }
 /* {block 'search'} */
-class Block_1698688081635b0475cb4902_85570088 extends Smarty_Internal_Block
+class Block_753482098635fbb07ca31f4_05805730 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'search' => 
   array (
-    0 => 'Block_1698688081635b0475cb4902_85570088',
+    0 => 'Block_753482098635fbb07ca31f4_05805730',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
