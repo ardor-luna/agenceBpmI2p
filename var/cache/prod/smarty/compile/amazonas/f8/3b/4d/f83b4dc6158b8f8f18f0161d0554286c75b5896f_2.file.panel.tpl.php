@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-31 13:08:56
+/* Smarty version 3.1.43, created on 2022-11-11 18:19:04
   from 'C:\laragon\agence-bpm-i2p\themes\amazonas\modules\ybc_themeconfig\views\templates\hook\panel.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635fbad8257a11_00206100',
+  'unifunc' => 'content_636e840891ac46_13163377',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635fbad8257a11_00206100 (Smarty_Internal_Template $_smarty_tpl) {
+function content_636e840891ac46_13163377 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['tc_display_panel']->value) {?>
 <div class="ybc-theme-panel closed">
     <div class="ybc-theme-panel-medium">

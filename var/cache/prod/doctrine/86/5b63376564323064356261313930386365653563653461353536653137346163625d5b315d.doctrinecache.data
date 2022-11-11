@@ -1,0 +1,18 @@
+1668194586
+s:3471:"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 11 Nov 2022 17:23:07 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: enforce, max-age=604800
+X-Backend-Server: vm2730.jn-hebergement.com
+
+{"modules":[{"id":"24360","name":"ps_linklist","displayName":"Link List","categoryName":"Outils de navigation","description":"Donnez plus de visibilit&eacute; &agrave; votre contenu et &agrave; vos pages statiques pour susciter l&rsquo;int&eacute;r&ecirc;t de vos visiteurs","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/fr\/outils-navigation\/24360-link-list.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-FR&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/24360.jpg","fullDescription":"Donnez plus de visibilit&eacute; &agrave; votre contenu et &agrave; vos pages statiques pour susciter l&rsquo;int&eacute;r&ecirc;t de vos visiteurs.","additionalDescription":"Servez-vous de ce module pour :\r\n<ul>\r\n\t<li><strong>Faire la promotion de votre catalogue :<\/strong> parce que tous vos produits m&eacute;ritent d&#39;&ecirc;tre mis en avant, permettez &agrave; vos visiteurs d&#39;acc&eacute;dez &agrave; votre catalogue en un clic.<\/li>\r\n\t<li><strong>Etablir une relation de confiance : <\/strong>personnalisez et affichez vos informations utiles pour rassurer vos clients et leur montrer que votre boutique est fiable.<\/li>\r\n<\/ul>\r\n","features":"Ce module peut &ecirc;tre configur&eacute; depuis la partie &#39;Modules&#39; du back office comme depuis la page Apparence &gt; Link Widget du menu de votre back office.<br \/>\r\n<br \/>\r\nPar d&eacute;faut, les liens s&#39;affichent dans le bloc de gauche de votre bas de page (footer) mais ils peuvent &ecirc;tre greff&eacute;s &agrave; un autre point d&#39;accroche pour appara&icirc;tre ailleurs sur votre site : dans le bloc de droite, par exemple. L&#39;usage des points d&#39;accroche vous offre ici une grande flexibilit&eacute; pour afficher vos liens l&agrave; o&ugrave; vous le souhaitez.","customer_benefits":"","demo_video":"","version":"5.0.5","last_update":"2022-11-11 12:59:00","compatibility":{"from":"1.7.8.0","to":"8.0.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"R\u00e9alis\u00e9 par PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/addons.prestashop.com\/1293824-pprod\/link-list.jpg","big":"https:\/\/addons.prestashop.com\/1293824-pbig\/link-list.jpg"},"pictures":{"small":["https:\/\/addons.prestashop.com\/1293825-pprod\/link-list.jpg","https:\/\/addons.prestashop.com\/1293826-pprod\/link-list.jpg"],"big":["https:\/\/addons.prestashop.com\/1293825-pbig\/link-list.jpg","https:\/\/addons.prestashop.com\/1293826-pbig\/link-list.jpg"]}}]}";

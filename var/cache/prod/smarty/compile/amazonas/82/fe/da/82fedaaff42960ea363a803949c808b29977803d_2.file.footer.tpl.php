@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-31 13:08:56
+/* Smarty version 3.1.43, created on 2022-11-11 18:19:05
   from 'C:\laragon\agence-bpm-i2p\themes\amazonas\modules\ybc_blog_free\views\templates\hook\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635fbad8891fc2_72248746',
+  'unifunc' => 'content_636e8409974d91_49800675',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635fbad8891fc2_72248746 (Smarty_Internal_Template $_smarty_tpl) {
+function content_636e8409974d91_49800675 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">
     ybc_blog_free_like_url = '<?php echo htmlspecialchars(call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( $_smarty_tpl->tpl_vars['like_url']->value,'html','UTF-8' )), ENT_QUOTES, 'UTF-8');?>

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-31 14:26:01
+/* Smarty version 3.1.43, created on 2022-11-11 18:25:33
   from 'C:\laragon\agence-bpm-i2p\admin8632ufbmn\themes\default\template\layout.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635fcce96cb475_53625795',
+  'unifunc' => 'content_636e858dec81c9_33071749',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635fcce96cb475_53625795 (Smarty_Internal_Template $_smarty_tpl) {
+function content_636e858dec81c9_33071749 (Smarty_Internal_Template $_smarty_tpl) {
 echo $_smarty_tpl->tpl_vars['header']->value;?>
 
 <?php if ((isset($_smarty_tpl->tpl_vars['conf']->value))) {?>

@@ -22,16 +22,28 @@ are for showning the things in the function get content in
  the display hook for example in the left column in our page*/ 
     
     public function install(){
-        return parent::install() && this -> registerhook('displayLeftColumn');
+        return parent::install()
+        && $this -> registerhook('displayProductAdditionalInfo')
+        && $this -> registerhook('displayFooterAfter');
     }
 
     // th uninstall function
     public function uninstall(){
-        return parent::uninstall() && this -> registerhook('displayLeftColumn');
+        return parent::uninstall();
+        // && $this -> registerhook('displayProductAdditionalInfo')
+        // && $this -> registerhook('displayFooterAfter');
     }
     // to display the content in the front office
     public function getContent(){
             return "hi there";
+    }
+    // public function hookdisplayProductAdditionalInfo()
+    // {
+    //     return "hello my name is narimen and i am a web developer";
+    // }
+    public function hookdisplayFooterAfter()
+    {
+        return "hello my name is narimen and i am a web developer";
     }
 
 }
