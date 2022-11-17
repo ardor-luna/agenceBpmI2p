@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-31 13:08:53
+/* Smarty version 3.1.43, created on 2022-11-17 22:17:43
   from 'module:pscategorytreeviewstempla' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635fbad54f44b1_22133189',
+  'unifunc' => 'content_6376a4f7bac7a9_73896965',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,13 +20,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635fbad54f44b1_22133189 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6376a4f7bac7a9_73896965 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'categories' => 
   array (
     'compiled_filepath' => 'C:\\laragon\\agence-bpm-i2p\\var\\cache\\prod\\smarty\\compile\\amazonas\\89\\21\\00\\8921007f54626fc7fe42cbff53f1d70828d3393d_2.module.pscategorytreeviewstempla.php',
     'uid' => '8921007f54626fc7fe42cbff53f1d70828d3393d',
-    'call_name' => 'smarty_template_function_categories_1415893070635fbad549e292_41829136',
+    'call_name' => 'smarty_template_function_categories_10320430976376a4f7b8e3b8_21483808',
   ),
 ));
 ?>
@@ -42,9 +42,9 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
   </ul>
 </div>
 <?php }
-/* smarty_template_function_categories_1415893070635fbad549e292_41829136 */
-if (!function_exists('smarty_template_function_categories_1415893070635fbad549e292_41829136')) {
-function smarty_template_function_categories_1415893070635fbad549e292_41829136(Smarty_Internal_Template $_smarty_tpl,$params) {
+/* smarty_template_function_categories_10320430976376a4f7b8e3b8_21483808 */
+if (!function_exists('smarty_template_function_categories_10320430976376a4f7b8e3b8_21483808')) {
+function smarty_template_function_categories_10320430976376a4f7b8e3b8_21483808(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('nodes'=>array(),'depth'=>0), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
@@ -73,5 +73,5 @@ $_smarty_tpl->tpl_vars['node']->do_else = false;
 }
 $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?></ul><?php }
 }}
-/*/ smarty_template_function_categories_1415893070635fbad549e292_41829136 */
+/*/ smarty_template_function_categories_10320430976376a4f7b8e3b8_21483808 */
 }

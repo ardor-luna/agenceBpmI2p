@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-11-01 10:19:42
+/* Smarty version 3.1.43, created on 2022-11-17 23:16:27
   from 'C:\laragon\agence-bpm-i2p\modules\welcome\views\contents\end.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6360e4ae529cc2_44486336',
+  'unifunc' => 'content_6376b2bb1d7d74_57381851',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6360e4ae529cc2_44486336 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6376b2bb1d7d74_57381851 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="onboarding-welcome" class="modal-body">
     <div class="col-12">

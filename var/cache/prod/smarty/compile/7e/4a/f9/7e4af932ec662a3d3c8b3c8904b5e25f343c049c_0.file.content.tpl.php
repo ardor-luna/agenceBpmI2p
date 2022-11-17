@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-31 13:09:32
+/* Smarty version 3.1.43, created on 2022-11-17 23:16:27
   from 'C:\laragon\agence-bpm-i2p\admin8632ufbmn\themes\new-theme\template\content.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635fbafc5cb0f9_38081042',
+  'unifunc' => 'content_6376b2bb6a2dd2_31723488',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635fbafc5cb0f9_38081042 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6376b2bb6a2dd2_31723488 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="ajax_confirmation" class="alert alert-success" style="display: none;"></div>
 

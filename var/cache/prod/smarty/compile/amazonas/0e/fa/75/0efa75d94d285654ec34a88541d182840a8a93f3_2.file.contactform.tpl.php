@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-31 14:24:22
+/* Smarty version 3.1.43, created on 2022-11-17 20:03:34
   from 'C:\laragon\agence-bpm-i2p\themes\amazonas\modules\contactform\views\templates\widget\contactform.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635fcc8679a839_85455154',
+  'unifunc' => 'content_63768586e7d8b8_80116000',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635fcc8679a839_85455154 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63768586e7d8b8_80116000 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="contact-form">
   <form action="<?php echo htmlspecialchars(call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( $_smarty_tpl->tpl_vars['urls']->value['pages']['contact'],'html','UTF-8' )), ENT_QUOTES, 'UTF-8');?>

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-31 13:08:53
+/* Smarty version 3.1.43, created on 2022-11-17 22:17:44
   from 'C:\laragon\agence-bpm-i2p\themes\amazonas\templates\catalog\_partials\sort-orders.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_635fbad5d77a92_63147194',
+  'unifunc' => 'content_6376a4f8c9c2a0_25094579',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_635fbad5d77a92_63147194 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6376a4f8c9c2a0_25094579 (Smarty_Internal_Template $_smarty_tpl) {
 ?><span class="hidden-sm-down sort-by"><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Sort by:','d'=>'Shop.Theme'),$_smarty_tpl ) );?>
 </span>
 <div class=" products-sort-order dropdown">
