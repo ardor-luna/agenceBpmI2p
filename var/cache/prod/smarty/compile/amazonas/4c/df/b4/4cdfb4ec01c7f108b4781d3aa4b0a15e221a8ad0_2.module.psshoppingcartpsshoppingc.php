@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-11-17 23:18:29
+/* Smarty version 3.1.43, created on 2022-11-18 06:55:43
   from 'module:psshoppingcartpsshoppingc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6376b335a73929_99467680',
+  'unifunc' => 'content_63771e5f1ff6f9_18759234',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6376b335a73929_99467680 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63771e5f1ff6f9_18759234 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!-- view image of product -->
 <?php if ($_smarty_tpl->tpl_vars['product']->value['images']) {?>

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-11-17 23:18:28
+/* Smarty version 3.1.43, created on 2022-11-18 06:55:41
   from 'C:\laragon\agence-bpm-i2p\themes\amazonas\modules\ybc_manufacturer\views\templates\hook\manufacturers.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6376b3344e6904_88083269',
+  'unifunc' => 'content_63771e5d35fff0_89935396',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6376b3344e6904_88083269 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63771e5d35fff0_89935396 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['manufacturers']->value) {?>
     <div id="ybc-mnf-block" class="col-md-12 col-xs-12">
         <h4 class="h1 products-section-title text-uppercase"><span><?php echo htmlspecialchars(call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'escape' ][ 0 ], array( $_smarty_tpl->tpl_vars['YBC_MF_TITLE']->value,'html','UTF-8' )), ENT_QUOTES, 'UTF-8');?>

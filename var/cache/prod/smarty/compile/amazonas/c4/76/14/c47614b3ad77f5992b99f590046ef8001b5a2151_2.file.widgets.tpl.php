@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-11-17 23:18:31
+/* Smarty version 3.1.43, created on 2022-11-18 06:55:46
   from 'C:\laragon\agence-bpm-i2p\themes\amazonas\modules\ybc_widget\views\templates\hook\widgets.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6376b337da8900_28187913',
+  'unifunc' => 'content_63771e62b1c198_49908315',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6376b337da8900_28187913 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63771e62b1c198_49908315 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['widgets']->value) {?>
     <?php if ($_smarty_tpl->tpl_vars['widget_hook']->value == "display-top-column") {?>
             <div class="home_widget_top_column<?php if ((isset($_smarty_tpl->tpl_vars['tc_config']->value['YBC_TC_LAYOUT'])) && $_smarty_tpl->tpl_vars['tc_config']->value['YBC_TC_LAYOUT'] == 'LAYOUT3') {?> home_top_colum_layout3<?php }?>">
